@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688611347 source:c:\users\reann\desktop\schoolwork\applied programming\tictactoe\tictactoe\main.cpp
+	<iostream>
+	<ctime>
+	<random>
+
