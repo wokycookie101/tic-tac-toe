@@ -7,7 +7,8 @@ I felt as though tic-tac-toe would be the perfect game to practice C++ in. It pl
 X's, while the computer you play against has control of the O's. The first person to get their respective letters 3 in a row (whether horizontal, vertical
 or diagonal) wins the game. 
 
-[Watch my demo video here!]([https://youtu.be/-H3QM8bvPkY])
+[Watch my demo video here!]
+https://youtu.be/-H3QM8bvPkY
 
 # Development Environment
 
